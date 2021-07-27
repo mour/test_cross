@@ -1,8 +1,11 @@
 [package]
-name = "test_cross"
+name = "test-cross"
 version = "0.1.0"
 authors = ["Ondrej Palenicek <ondrej.palenicek@gmail.com>"]
 edition = "2018"
+description = "Lorem ipsum"
+repository = "https://github.com/opalenic/test_cross.git"
+license = "BSD"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
